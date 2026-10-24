@@ -1,2 +1,4 @@
-﻿     Creating library D:\.Net\LionSettings\x64\Debug\LionSettingsKeyboardHookDLL.lib and object D:\.Net\LionSettings\x64\Debug\LionSettingsKeyboardHookDLL.exp
+﻿  pch.cpp
+  dllmain.cpp
+     Creating library D:\.Net\LionSettings\x64\Debug\LionSettingsKeyboardHookDLL.lib and object D:\.Net\LionSettings\x64\Debug\LionSettingsKeyboardHookDLL.exp
   LionSettingsKeyboardHookDLL.vcxproj -> D:\.Net\LionSettings\x64\Debug\LionSettingsKeyboardHookDLL.dll
