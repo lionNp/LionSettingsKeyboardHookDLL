@@ -1,8 +1,6 @@
-﻿  pch.cpp
-  dllmain.cpp
-     Creating library D:\.Net\LionSettings\x64\Release\LionSettingsKeyboardHookDLL.lib and object D:\.Net\LionSettings\x64\Release\LionSettingsKeyboardHookDLL.exp
+﻿     Creating library D:\.Net\LionSettings\x64\Release\LionSettingsKeyboardHookDLL.lib and object D:\.Net\LionSettings\x64\Release\LionSettingsKeyboardHookDLL.exp
   Generating code
-  Previous IPDB not found, fall back to full compilation.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
   All 6 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   LionSettingsKeyboardHookDLL.vcxproj -> D:\.Net\LionSettings\x64\Release\LionSettingsKeyboardHookDLL.dll
